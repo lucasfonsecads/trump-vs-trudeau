@@ -1,7 +1,7 @@
 # NLP Trump vs Trudeau Tweets analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 This project is a part of study program of DataCamp.
 
-#### -- Project Status: [![Active]:(https://img.shields.io/github/last-commit/lucasfonmiranda/datacamp-trump-vs-trudeau)]
+#### -- Project Status: [![Active](https://img.shields.io/github/last-commit/lucasfonmiranda/datacamp-trump-vs-trudeau)]
 
 ## Project Intro/Objective
 The purpose of this project is use NLP for analysis the tweets of presidential candidates US in 2020   
