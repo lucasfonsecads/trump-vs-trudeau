@@ -4,7 +4,7 @@ This project is a part of study program of DataCamp.
 #### -- Project Status: ![Active](https://img.shields.io/github/last-commit/lucasfonmiranda/datacamp-trump-vs-trudeau)
 
 ## Project Intro/Objective
-The purpose of this project is use NLP for analysis the tweets of presidential candidates US in 2020   
+The purpose of this project is use NLP for analysis the tweets of presidential US and CAN in 2020   
 
 
 ### Methods Used
@@ -20,7 +20,7 @@ The purpose of this project is use NLP for analysis the tweets of presidential c
  
 
 ## Project Description
-This project consist in NLP method to analysis the comportament of presidential candidates of US in 2020 on twitter, using methods of data science and machine learning to create one model and determine if one tweet corresponds to one candidate or to another. 
+This project consist in NLP method to analysis the comportament of presidential of US and CAN in 2020 on twitter, using methods of data science and machine learning to create one model and determine if one tweet corresponds to one candidate or to another. 
 
 
 ## Getting Started
